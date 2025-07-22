@@ -22,7 +22,7 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
 
 ## 🧭 Buenas Prácticas en AWS
 
-- ✅ **Infraestructura como Código (IaC)**: uso de Terraform y CloudFormation para entornos reproducibles y versionables.
+- ✅ **Infraestructura como Código (IaC)**: uso de Terraform y CloudFormation para entornos productivos y versionables.
 - 🔐 **Seguridad por diseño**: principio de mínimo privilegio, rotación de claves, y políticas IAM bien definidas.
 - 🕵️‍♂️ **Auditoría y monitoreo**: con CloudTrail, CloudWatch, Config y GuardDuty para trazabilidad completa.
 - ♻️ **Ambientes separados**: Dev, QA y Prod bien aislados mediante cuentas o VPCs independientes.
