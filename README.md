@@ -84,6 +84,21 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
   <img src="https://img.shields.io/badge/WAF-FF9900?logo=aws&logoColor=white" alt="WAF"/>
 </p>
 
+## 🏆 Buenas Prácticas Implementadas
+
+### 🔐 Seguridad
+<p>
+  <img src="https://img.shields.io/badge/Principio_Mínimos_Privilegios-FF9900?logo=awsiam&logoColor=white" alt="IAM Least Privilege"/>
+  <img src="https://img.shields.io/badge/Encriptación_Transit/At_Rest-0052CC?logo=awskms&logoColor=white" alt="Encryption"/>
+  <img src="https://img.shields.io/badge/WAF_Shield-FF9900?logo=aws&logoColor=white" alt="WAF"/>
+</p>
+
+- Implementación de políticas IAM granularmente definidas
+- Rotación automática de credenciales (Secrets Manager)
+- Configuración de VPC con subnets públicas/privadas
+- Monitoreo continuo con GuardDuty y Security Hub
+
+
 [Additional categories like Analytics, ML, DevOps, etc. would follow...]
 
 ### ⚙️ DevOps Tools
