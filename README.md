@@ -37,7 +37,6 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
 ## 🔧 Stack Tecnológico
 
 ### ☁️ AWS Services
-## ☁️ AWS Services (100+)
 
 ### Compute & Containers
 <p>
