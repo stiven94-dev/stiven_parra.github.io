@@ -33,6 +33,15 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
 - 🔄 **Backups y recuperación**: automatización con AWS Backup, y pruebas periódicas de recuperación.
 - 📊 **Observabilidad**: dashboards con CloudWatch y Grafana, logs estructurados y métricas personalizadas.
 
+### 🏛️ Pilares del AWS Well-Architected Framework
+
+- 🔐 **Seguridad (Security)**: protege la información y los sistemas mediante control de acceso, cifrado y monitoreo continuo.
+- ⚙️ **Excelencia Operacional (Operational Excellence)**: habilita procesos confiables mediante automatización, métricas y respuesta a eventos.
+- 🧱 **Fiabilidad (Reliability)**: garantiza recuperación ante fallos, alta disponibilidad y escalabilidad.
+- 💰 **Optimización de Costos (Cost Optimization)**: reduce gastos innecesarios mediante dimensionamiento adecuado y monitoreo de uso.
+- ⚡ **Eficiencia del Rendimiento (Performance Efficiency)**: aprovecha tecnologías modernas para responder a cambios de demanda.
+- 🌱 **Sostenibilidad (Sustainability)**: minimiza el impacto ambiental mediante prácticas responsables y eficiencia energética.
+
 
 ## 🔧 Stack Tecnológico
 
@@ -125,23 +134,4 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 </p>
-
----
-
-## 🏛️ Pilares del AWS Well-Architected Framework
-
-Los pilares fundamentales para construir soluciones sólidas y sostenibles en la nube de AWS:
-
-### 🔐 Seguridad (Security)
-Protege la información, los sistemas y los activos mediante controles rigurosos de acceso, monitoreo, cifrado y automatización de respuestas.
-##⚙️ Excelencia Operacional (Operational Excellence)
-Permite operar y monitorear sistemas para entregar valor de negocio, mejorando procesos mediante la automatización y respuesta a eventos.
-### 🧱 Fiabilidad (Reliability)
-Asegura que la carga de trabajo pueda recuperarse de fallos, escalar adecuadamente y cumplir requisitos de disponibilidad.
-### 💰 Optimización de Costos (Cost Optimization)
-Evita el gasto innecesario y permite ejecutar cargas de trabajo de forma rentable, usando solo los recursos necesarios.
-### ⚡ Eficiencia del Rendimiento (Performance Efficiency)
-Utiliza los recursos de TI de manera eficiente, adaptando la infraestructura según la demanda para mantener el rendimiento.
-### 🌱 Sostenibilidad (Sustainability)
-Minimiza el impacto ambiental de la nube mediante la mejora continua del consumo de energía y eficiencia de los recursos utilizados.
 
