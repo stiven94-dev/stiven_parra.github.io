@@ -20,6 +20,20 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
 
 ---
 
+## 🧭 Buenas Prácticas en AWS
+
+- ✅ **Infraestructura como Código (IaC)**: uso de Terraform y CloudFormation para entornos reproducibles y versionables.
+- 🔐 **Seguridad por diseño**: principio de mínimo privilegio, rotación de claves, y políticas IAM bien definidas.
+- 🕵️‍♂️ **Auditoría y monitoreo**: con CloudTrail, CloudWatch, Config y GuardDuty para trazabilidad completa.
+- ♻️ **Ambientes separados**: Dev, QA y Prod bien aislados mediante cuentas o VPCs independientes.
+- 📦 **Despliegues seguros y controlados**: pipelines con `terraform plan`, validaciones y aprobaciones manuales.
+- 🧪 **Pruebas automatizadas**: pruebas unitarias, integración y post-deploy integradas en CodeBuild y GitHub Actions.
+- 💸 **Costos controlados**: uso de etiquetas (tags), presupuestos y reportes con Cost Explorer.
+- ☁️ **Arquitecturas eficientes**: uso de Lambda, Fargate y Auto Scaling para soluciones autoescalables y resilientes.
+- 🔄 **Backups y recuperación**: automatización con AWS Backup, y pruebas periódicas de recuperación.
+- 📊 **Observabilidad**: dashboards con CloudWatch y Grafana, logs estructurados y métricas personalizadas.
+
+
 ## 🔧 Stack Tecnológico
 
 ### ☁️ AWS Services
@@ -86,7 +100,6 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
 
 ## 🏆 Buenas Prácticas Implementadas
 
-### 🔐 Seguridad
 <p>
   <img src="https://img.shields.io/badge/Principio_Mínimos_Privilegios-FF9900?logo=awsiam&logoColor=white" alt="IAM Least Privilege"/>
   <img src="https://img.shields.io/badge/Encriptación_Transit/At_Rest-0052CC?logo=awskms&logoColor=white" alt="Encryption"/>
@@ -97,9 +110,6 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
 - Rotación automática de credenciales (Secrets Manager)
 - Configuración de VPC con subnets públicas/privadas
 - Monitoreo continuo con GuardDuty y Security Hub
-
-
-[Additional categories like Analytics, ML, DevOps, etc. would follow...]
 
 ### ⚙️ DevOps Tools
 <p>
