@@ -38,7 +38,7 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
 
 ### ☁️ AWS Services
 
-### Compute & Containers
+#### Compute & Containers
 <p>
   <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white" alt="EC2"/>
   <img src="https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white" alt="Lambda"/>
@@ -51,7 +51,7 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
   <img src="https://img.shields.io/badge/Elastic_Beanstalk-569A31?logo=awselasticbeanstalk&logoColor=white" alt="Elastic Beanstalk"/>
 </p>
 
-### Storage
+#### Storage
 <p>
   <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white" alt="S3"/>
   <img src="https://img.shields.io/badge/EBS-FF9900?logo=aws&logoColor=white" alt="EBS"/>
@@ -62,7 +62,7 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
   <img src="https://img.shields.io/badge/Backup-FF9900?logo=aws&logoColor=white" alt="Backup"/>
 </p>
 
-### Databases
+#### Databases
 <p>
   <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white" alt="RDS"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
@@ -74,7 +74,7 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
   <img src="https://img.shields.io/badge/Keyspaces-FF9900?logo=aws&logoColor=white" alt="Keyspaces"/>
 </p>
 
-### Networking & CDN
+#### Networking & CDN
 <p>
   <img src="https://img.shields.io/badge/VPC-43B02A?logo=amazonvpc&logoColor=white" alt="VPC"/>
   <img src="https://img.shields.io/badge/CloudFront-005571?logo=amazoncloudfront&logoColor=white" alt="CloudFront"/>
@@ -85,7 +85,7 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
   <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?logo=amazonapigateway&logoColor=white" alt="API Gateway"/>
 </p>
 
-### Security & Identity
+#### Security & Identity
 <p>
   <img src="https://img.shields.io/badge/IAM-0052CC?logo=awsiam&logoColor=white" alt="IAM"/>
   <img src="https://img.shields.io/badge/Cognito-FF9900?logo=amazoncognito&logoColor=white" alt="Cognito"/>
@@ -96,6 +96,8 @@ Soy **Arquitecto de Soluciones Cloud** especializado en AWS con experiencia en:
   <img src="https://img.shields.io/badge/Shield-FF9900?logo=aws&logoColor=white" alt="Shield"/>
   <img src="https://img.shields.io/badge/WAF-FF9900?logo=aws&logoColor=white" alt="WAF"/>
 </p>
+
+---
 
 ## 🏆 Buenas Prácticas Implementadas
 
